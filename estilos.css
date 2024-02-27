@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;900&family=Source+Sans+Pro:wght@200&display=swap");
+
+#ppal {
+  background-color: #17b9b4;
+  width: 800px;
+  height: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#cabezal {
+  background-color: #acb91b;
+  width: 100%;
+  height: 110px;
+  position: relative;
+  text-align: center;
+  display: block;
+  list-style-type: none;
+  font-family: "Montserrat";
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#Navega {
+  background-color: #31b937;
+  width: 100%;
+  height: 30px;
+  position: relative;
+}
+
+#Cderecha {
+  background-color: #b95374;
+  width: 580px;
+  height: 900px;
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#cizq {
+  background-color: #b94b55;
+  width: 180px;
+  height: 900px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#pie {
+  background-color: #99b9a2;
+  width: 100%;
+  height: 20px;
+  position: relative;
+  font-family: "Source Sans Pro";
+}
+
+#a1 {
+  font-family: "arial", "sans-serif", "Forte";
+}
+
+#h2 {
+  font-family: "Montserrat";
+  font-variant: small-caps;
+}
+
+#p {
+  font-family: "Source Sans Pro";
+  font-variant: small-caps;
+  background-color: transparent;
+  color: #020202;
+  font-weight: bold;
+}
+
+#Navega li {
+  float: left;
+  list-style-type: none;
+  list-style-image: url("");
+}
+
+#Navega a {
+  font-family: "Montserrat";
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #030503;
+  padding: 5px 25px;
+  display: block;
+}
+
+#Navega ul {
+  margin: 0px;
+}
+
+#Navega ul li a:hover {
+  background-color: #33ccff;
+}
+
+#cabezal li {
+  display: block;
+}
+
+#cabezal ul {
+}
+
+#cabezal li {
+  list-style-type: none;
+}
+
+#cabezal #a {
+}
+
+#cabezal li {
+  float: left;
+}
+
+#li2 {
+  padding-left: 5px;
+  text-align: center;
+}
+
+#a {
+  text-align: justify;
+}
+
+#asd {
+  text-align: justify;
+  font-family: "Source Sans Pro";
+}
+
+#sd {
+  font-family: "Montserrat";
+}
+
+#pie li {
+  float: left;
+  list-style-type: none;
+}
+
+#pie we {
+  padding-left: 15px;
+}
+
+#pie li {
+  padding-left: 35px;
+}
+
+#asdw {
+  text-align: justify;
+  font-family: "Source Sans Pro";
+}
+
+#izq {
+  font-family: "Montserrat";
+}
+
+#fondo {
+  margin: auto;
+  left: 0px;
+  position: fixed;
+  z-index: -100;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+

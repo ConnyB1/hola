@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>AAAAAAAAAyuda UWU</title>
+    <link type="text/css" rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <p id="fondos"> as<img src="58914.jpg" alt="" id="fondo"></p>
+    <div id="ppal">
+      <p></p>
+      <div id="cabezal" style="background-color: #33ff33;"><img src="E3-19-325x279%20%281%29.png"
+          alt=""></div>
+      <div id="Navega" style="background-color: #197f19;">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li style="background-color: #197f19;"><a href="AAAAAAAAAyuda%20UWU.html">videojuegos</a></li>
+          <li><a href="pagina%203.html">microsoft</a></li>
+          <li><a href="#">sony</a></li>
+        </ul>
+      </div>
+      <div id="Cderecha" style="background-color: #ffcc66;">
+        <h2 style="background-color: transparent;" id="h2">sony</h2>
+        <p id="p">Sony Group Corporation (ソニー株式会社 Sonī Kabushiki Gaisha),
+          comúnmente referida como Sony, es una empresa multinacional japonesa
+          con sede en Tokio (Japón) y uno de los fabricantes más importantes a
+          nivel mundial en electrónica de consumo: audio y vídeo, computación,
+          fotografía, videojuegos, telefonía móvil, productos profesionales,
+          etcétera. En 2021 Sony ocupó el puesto 74 en la lista Fortune Global
+          500,&nbsp; un escalafón de empresas de todo el mundo medidas por los
+          ingresos. Tambien se situo como la empresa 96 del mundo por
+          capitalización de mercado. A comienzos del siglo XXI, Sony llegó a
+          estar entre las treinta primeras de este listado en varias
+          oportunidades.<br>
+          <br>
+          Durante décadas Akio Morita y Masaru Ibuka, los fundadores de Sony,
+          formaron una pareja complementaria. Gracias al agudo sentido de las
+          relaciones públicas y mercadotecnia de Morita y al espíritu de
+          innovación de Ibuka, la compañía prosperó internacionalmente.​ Desde
+          entonces varios aportes de Sony al mundo de la electrónica han sido
+          relevantes. Por ejemplo, en 1950 la empresa presentó la primera
+          grabadora de sonido en Japón, cuatro años más tarde fabrica el primer
+          transistor japonés y al año siguiente, en 1955 desarrolla la primera
+          radio de transistores del mundo. En las décadas posteriores la empresa
+          desarrolló productos como la serie de televisores Trinitron, el
+          Betamax, el Walkman, el Disco Compacto, las Handycam o la PlayStation
+          entre otros que dieron renombre mundial. Entre la década de los años
+          1980 y años 1990, Sony era la empresa líder en el sector tecnológico y
+          de las más importantes a nivel global.<br>
+          <br>
+          <img src="descarga_6.png" alt="" id="hgt"><br>
+        </p>
+      </div>
+      <div style="background-color: #e88b00;" id="cizq"><br>
+        <h2 id="izq">Datos curiosos</h2>
+        <ul id="tre">
+          <li>Tienen una mascota secreta: En la central de Sony hay un conejillo
+            de indias de oro que es considerada la mascota corporativa secreta.</li>
+          <li>No siempre se llamó igual: Después de ver que uno de los mayores
+            éxitos comerciales que tenían era las radios y los transistores en
+            las casas, quisieron buscar una relación con estos productos y su
+            marca. Por eso, eligieron la palabra «Sony» que proviene del latín y
+            significa «sonido».</li>
+          <li>Empezó con electrodomésticos de cocina: Aunque hoy en día fabrica
+            televisores, cámaras de fotos y otros gadgets, en sus inicios se
+            dedicaba a fabricar máquinas de cocinar arroz que además no
+            funcionaban bien.</li>
+        </ul>
+      </div>
+      <div style="background-color: #00baba;" id="pie">
+        <ul>
+          <ul>
+            <li>Hecho por: Alejandro Velazquez</li>
+          </ul>
+          <li>Luis Canett</li>
+          <li>Max Cutiño </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>

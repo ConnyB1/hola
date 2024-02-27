@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>AAAAAAAAAyuda UWU</title>
+    <link type="text/css" rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <p id="fondos"> as<img src="58914.jpg" alt="" id="fondo"></p>
+    <div id="ppal">
+      <p></p>
+      <div id="ppal">
+        <p></p>
+        <div id="cabezal" style="background-color: #33ff33;">
+          <h3><img src="E3-19-325x279%20%281%29.png" alt=""></h3>
+        </div>
+        <div id="Navega" style="background-color: #197f19;">
+          <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="AAAAAAAAAyuda%20UWU.html">videojuegos</a></li>
+            <li><a href="#">microsoft</a></li>
+            <li><a href="pag.%204.html">sony</a></li>
+          </ul>
+        </div>
+        <div id="Cderecha" style="background-color: #ffcc66;">
+          <h2 style="background-color: transparent;" id="h2">microsoft </h2>
+          <p id="p">La empresa desarrolla, manufactura, licencia y provee
+            soporte de software para computadores personales, servidores,
+            dispositivos electrónicos y servicios. Sus productos más conocidos
+            son el sistema operativo Microsoft Windows, la suite ofimática
+            Microsoft Office y los navegadores de Internet, Internet Explorer y
+            Edge. En hardware sus productos bandera son las consolas de
+            videojuegos Xbox y la línea de dispositivos de pantalla táctil
+            Microsoft Surface. Hasta el año 2016 fue la compañía de software más
+            grande del mundo, si se tienen en cuenta sus ingresos y, además, una
+            de las más valiosas del mercado mundia.<br>
+            <br>
+            Microsoft Corporation (pronunciado [maikrosoft]) es una compañía
+            tecnológica multinacional con sede en Redmond, Washington, Estados
+            Unidos. Microsoft es el acrónimo de microcomputer y software.<br>
+            <br>
+            &nbsp;Se trata de un año muy importante para el mundo del gaming ya
+            que a finales del 2020 llegarán las consolas de la nueva generación,
+            comandadas por la PlayStation5, de Sony, y la Xbox Series X, de
+            Microsoft. Teniendo en cuenta esto y la cercanía de la fecha del
+            evento -será del 9 al 11 de junio en el Centro de Convenciones de
+            Los Ángeles- ya hay una lista de las empresas que confirmaron de
+            forma oficial su presencia en la Electronic Entertainment Expo (E3),
+            una de las más esperadas convenciones de los últimos años.<br>
+            <br>
+            <img src="1595442845_918343_1595443241_noticia_normal.jpg" alt="" style="width: 570px; height: 292px;"></p>
+        </div>
+        <div style="background-color: #e88b00;" id="cizq"><br>
+          <h2 id="izq">Datos curiosos</h2>
+          <ul id="asfeew">
+            <li>El sonido de inicio de Windows fue compuesto por Brian Eno: el
+              cerebro detrás de la música de inicio de Windows 95, es un famoso
+              compositor que trabajó con David Bowie y U2.</li>
+            <li>La comida favorita de Microsoft es la pizza: es la más consumida
+              en las cafeterías y restaurantes de su campus. Las dos bebidas más
+              consumidas son la leche y el jugo de naranja.</li>
+            <li>El empleado medio: tiene 38 años, es hombre y su salario medio
+              es de 106.000 dólares anuales. En Microsoft trabajan actualmente
+              88.180 personas.</li>
+          </ul>
+          <br>
+          <br>
+        </div>
+        <div style="background-color: #00baba;" id="pie">
+          <ul>
+            <ul>
+              <li>Hecho por: Alejandro Velazquez</li>
+            </ul>
+            <li>Luis Canett</li>
+            <li>Max Cutiño </li>
+          </ul>
+        </div>
+      </div>
+      <p><br>
+      </p>
+    </div>
+  </body>
+</html>
